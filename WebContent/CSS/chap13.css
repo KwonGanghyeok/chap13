@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+@import
+	url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap')
+	;
+
+* {
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+.bg-blue {
+	background-color: blue;
+}
+
+.bg-mycolor {
+	background-color: #89a5ea;
+}
+.myborder{
+	border: 1px solid #fff;
+}
+.mycenter{
+	text-align: center;
+}
+.myright{
+	text-align: right;
+}
